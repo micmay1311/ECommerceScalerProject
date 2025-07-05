@@ -5,3 +5,9 @@ Created the Service layer.
 Implemented RestTemplate.
 Invoked call to third party API (fakeStore) to get data
 Returned reponse from Controller.
+
+
+MappedSuperClass
+Single
+TablePerClass
+Joined

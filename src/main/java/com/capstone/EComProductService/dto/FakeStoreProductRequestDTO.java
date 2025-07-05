@@ -3,13 +3,9 @@ package com.capstone.EComProductService.dto;
 import lombok.Getter;
 import lombok.Setter;
 
-import java.util.UUID;
-
 @Getter
 @Setter
-public class ProductResponseDTO {
-
-    private UUID id;
+public class FakeStoreProductRequestDTO {
     private String title;
     private double price;
     private String category;
