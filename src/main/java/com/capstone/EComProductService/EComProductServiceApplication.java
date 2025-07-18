@@ -22,7 +22,7 @@ public class EComProductServiceApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 
-		initService.initialise();
+		//initService.initialise();
 
 
 	}
